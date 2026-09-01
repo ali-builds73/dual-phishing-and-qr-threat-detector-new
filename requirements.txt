@@ -1,0 +1,7 @@
+# DNS lookup library
+dnspython>=2.6,<3
+# QR image decoding libraries
+pyzbar>=0.1.9,<1
+Pillow>=10,<12
+# Used only to create the harmless QR-code image for the classroom demo
+qrcode>=7.4,<9
